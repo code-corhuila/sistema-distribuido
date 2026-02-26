@@ -4,6 +4,12 @@ Sistema distribuido basado en arquitectura de microservicios para gestión de ca
 
 ---
 
+## ⏱️ Plazo del Proyecto
+
+**Duración:** 16 semanas (un semestre académico)
+
+---
+
 ## 📋 Descripción
 
 Sistema empresarial distribuido que implementa un ecosistema completo de e-commerce con separación por dominios:
