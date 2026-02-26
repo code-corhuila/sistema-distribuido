@@ -1,7 +1,11 @@
 # 🛒 Sistema Distribuido - Shopping Cart
 
 Sistema distribuido basado en arquitectura de microservicios para gestión de carrito de compras, inventario y facturación.
+---
 
+## ⏱️ Plazo del Proyecto
+
+**Duración:** 16 semanas (un semestre académico)
 ---
 
 ## 📋 Descripción
